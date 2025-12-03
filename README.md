@@ -1,2 +1,2 @@
 # olist-sales-prediction
-Fazendo previsões de vendas usando a database da Olist
+Fazendo previsões de vendas usando XGBoost a partir da database da Olist 
